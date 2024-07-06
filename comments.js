@@ -1,5 +1,2 @@
-// Este es un comentario
-// Este es un comentario}
-// Este es un comentario
-// Este es un comentario
-
+// Create web server
+const express = require('express');
